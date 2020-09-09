@@ -9,5 +9,5 @@
 #### Running JS Files Instructions:
 
 ```
-Running js files: node \${filename.js} (ex: test1.js,test2.js,test3.js)
+Running js files: node ${filename.js} (ex: test1.js,test2.js,test3.js)
 ```
