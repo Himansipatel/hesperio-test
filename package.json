@@ -1,0 +1,29 @@
+{
+  "name": "dev_test",
+  "version": "1.0.0",
+  "description": "This is a demo of interview ",
+  "main": "test4/test4.html",
+  "scripts": {
+    "start": "node test1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philbagda/dev_test.git"
+  },
+  "keywords": [
+    "Demo",
+    "interview"
+  ],
+  "author": "Himansi Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philbagda/dev_test/issues"
+  },
+  "homepage": "https://github.com/philbagda/dev_test#readme",
+  "dependencies": {
+    "chalk": "4.1.0",
+    "fs": "0.0.1-security",
+    "uniq": "1.0.1"
+  }
+}
